@@ -16,6 +16,15 @@ This project was conducted to apply a deep learning model (CNN) to detect bacter
 
 The project has been through 2 periods of time. First, the previous approach was trying to crop some region samples of bacteria and environments from training images to feed the CNN model. Through the training process, the CNN model could classify a particular region from an image containing tuberculosis bacteria or not. However this approach proved to be cumbersome, it was calculation-expensive, and the result depended too much on how to cut regions on the image to determine the bounding box that wraps the bacteria, this approach is just a combination of classification and localization tasks, so it is not suitable for detecting bacteria on the images. After realizing the limit, the new approach was to find an image detection algorithm or newer deep learning models, RCNN, fast RCNN, or mask RCNN that could be suitable. And we've found that YOLOv8 could be potential for this project.
 
+This is the result of the previous approach:
+
+![Alt text](previous_result1.png "previous result")
+
+This is the result when applying YOLOv8:
+
+
+
+
 ## Why YOLOv8 suitable for image detection tasks?
 
 YOLO (You Only Look Once) is a real-time object detection system that is well-suited for image detection tasks, particularly those involving bacterial and microbial images. Here are some key reasons why:
@@ -31,3 +40,9 @@ YOLO (You Only Look Once) is a real-time object detection system that is well-su
 - Scalability: YOLO can be scaled to handle large datasets and high-throughput imaging applications. This is important for large-scale studies of bacterial and microbial communities, where the analysis of massive datasets is essential for gaining meaningful insights.
 
 Overall, YOLO's speed, accuracy, robustness, extensibility, and scalability make it a powerful tool for bacterial and microbial image detection. Its ability to rapidly and accurately identify bacteria and other microorganisms from images can be a valuable asset in a variety of research, clinical, and industrial settings.
+
+## More information
+
+You could find the previous repository with previous approach via this link: https://github.com/TracDucAnh/Observing-Tuberculosis-Bacteria-Program
+
+This repository is the new approach to perform this image detection tasks with YOLOv8: https://github.com/TracDucAnh/Tuberculosis_bacteria_detection

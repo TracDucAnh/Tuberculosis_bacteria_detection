@@ -59,7 +59,7 @@ This project is a preliminary study, and there are several limitations that need
 
 This project is a small team project for learning purposes and may have many shortcomings. I hope you can give me some feedback.
 
-This project is ownedby DINH TRAC DUC ANH (HCM University of Technology), in collaboration with TRUONG QUANG ANH VU (Thu Dau Mot University).
+This project is owned by DINH TRAC DUC ANH (HCM University of Technology), in collaboration with TRUONG QUANG ANH VU (Thu Dau Mot University).
 
 Contact: 
 

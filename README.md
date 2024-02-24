@@ -54,3 +54,15 @@ Overall, YOLO's speed, accuracy, robustness, extensibility, and scalability make
 You could find the previous repository with previous approach via this link: https://github.com/TracDucAnh/Observing-Tuberculosis-Bacteria-Program
 
 This repository is the new approach to perform this image detection tasks with YOLOv8: https://github.com/TracDucAnh/Tuberculosis_bacteria_detection
+
+This project is a preliminary study, and there are a number of limitations that need to be addressed in future work.
+
+This project is a small team project for learning purposes and may have many shortcomings. I hope you can give me some feedback.
+
+This project is own by DINH TRAC DUC ANH (HCM University of Technology), in collaboration with TRUONG QUANG ANH VU (Thu Dau Mot University).
+
+Contact: 
+
+- dinhtracducanh04092005@gmail.com
+
+- tqavu1608@gmail.com

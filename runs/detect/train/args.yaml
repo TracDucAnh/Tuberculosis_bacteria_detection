@@ -2,7 +2,7 @@ task: detect
 mode: train
 model: yolov8n.yaml
 data: C:\Users\red\Downloads\Tuberculosis YOLO\Tuberculosis_bacteria_detection\tuberculosis.v1i.yolov8\data.yaml
-epochs: 20
+epochs: 30
 time: null
 patience: 100
 batch: 16

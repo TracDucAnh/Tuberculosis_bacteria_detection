@@ -20,6 +20,10 @@ This is the result of the previous approach:
 
 ![Alt text](previous_result1.png "previous result")
 
+![Alt text](previous_result2.png "previous result")
+
+![Alt text](previous_result3.png "previous result")
+
 This is the result when applying YOLOv8:
 
 

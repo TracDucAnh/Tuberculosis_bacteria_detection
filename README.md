@@ -26,7 +26,11 @@ This is the result of the previous approach:
 
 This is the result when applying YOLOv8:
 
+![Alt text](yolot1.png "yolo")
 
+![Alt text](yolot2.png "yolo")
+
+![Alt text](yolot3.png "yolo")
 
 
 ## Why YOLOv8 suitable for image detection tasks?

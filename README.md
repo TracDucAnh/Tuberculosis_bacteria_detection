@@ -20,14 +20,14 @@ The project has been through 2 periods of time. First, the previous approach was
 
 YOLO (You Only Look Once) is a real-time object detection system that is well-suited for image detection tasks, particularly those involving bacterial and microbial images. Here are some key reasons why:
 
--Speed and efficiency: YOLO is known for its fast processing speed, making it ideal for real-time applications where rapid detection is crucial. This is especially important in the context of bacterial and microbial analysis, where timely identification of pathogens can be critical for patient care and outbreak prevention.
+- Speed and efficiency: YOLO is known for its fast processing speed, making it ideal for real-time applications where rapid detection is crucial. This is especially important in the context of bacterial and microbial analysis, where timely identification of pathogens can be critical for patient care and outbreak prevention.
 
--Accuracy: YOLO achieves high accuracy in object detection, even with small and low-resolution images. This is essential for tasks involving bacterial and microbial images, which can often be challenging to identify due to their small size and complex morphology.
+- Accuracy: YOLO achieves high accuracy in object detection, even with small and low-resolution images. This is essential for tasks involving bacterial and microbial images, which can often be challenging to identify due to their small size and complex morphology.
 
--Robustness: YOLO is a robust system that can be trained on a variety of datasets and applied to different types of images. This makes it adaptable to the diverse range of bacterial and microbial images that may be encountered in research and clinical settings.
+- Robustness: YOLO is a robust system that can be trained on a variety of datasets and applied to different types of images. This makes it adaptable to the diverse range of bacterial and microbial images that may be encountered in research and clinical settings.
 
--Extensibility: YOLO is an open-source framework that can be easily extended and customized to meet specific needs. This allows researchers and developers to tailor the system to their specific requirements for bacterial and microbial image analysis.
+- Extensibility: YOLO is an open-source framework that can be easily extended and customized to meet specific needs. This allows researchers and developers to tailor the system to their specific requirements for bacterial and microbial image analysis.
 
--Scalability: YOLO can be scaled to handle large datasets and high-throughput imaging applications. This is important for large-scale studies of bacterial and microbial communities, where the analysis of massive datasets is essential for gaining meaningful insights.
+- Scalability: YOLO can be scaled to handle large datasets and high-throughput imaging applications. This is important for large-scale studies of bacterial and microbial communities, where the analysis of massive datasets is essential for gaining meaningful insights.
 
 Overall, YOLO's speed, accuracy, robustness, extensibility, and scalability make it a powerful tool for bacterial and microbial image detection. Its ability to rapidly and accurately identify bacteria and other microorganisms from images can be a valuable asset in a variety of research, clinical, and industrial settings.

@@ -1,10 +1,10 @@
 # Tuberculosis bacteria detection using YOLOv8
 
-## Breif summary of tuberculosis
+## Brief summary of tuberculosis
 
-According to WHO (World Health Oranization), Tuberculosis (TB) also known colloquially as the "white death", is an infectious disease that most often affects the lungs and is caused by a type of bacteria, Mycobacterium tuberculosis (a species of pathogenic bacteria in the family Mycobacteriaceae and the causative agent of tuberculosis). First discovered in 1882 by Robert Koch, about a quarter of the global population is estimated to have been infected with TB bacteria. About 5–10% of people infected with TB will eventually get symptoms and develop TB disease.
+According to WHO (World Health Organization), Tuberculosis (TB) also known colloquially as the "white death", is an infectious disease that most often affects the lungs and is caused by a type of bacteria, Mycobacterium tuberculosis (a species of pathogenic bacteria in the family Mycobacteriaceae and the causative agent of tuberculosis). First discovered in 1882 by Robert Koch, about a quarter of the global population is estimated to have been infected with TB bacteria. About 5–10% of people infected with TB will eventually get symptoms and develop TB disease.
 
-A total of 1.3 million people died from TB in 2022 (including 167 000 people with HIV). Worldwide, TB is the second leading infectious killer after COVID-19 (above HIV and AIDS).
+A total of 1.3 million people died from TB in 2022 (including 167,000 people with HIV). Worldwide, TB is the second leading infectious killer after COVID-19 (above HIV and AIDS).
 
 In 2022, an estimated 10.6 million people fell ill with tuberculosis (TB) worldwide, including 5.8 million men, 3.5 million women and 1.3 million children. TB is present in all countries and age groups. TB is curable and preventable.
 
@@ -33,7 +33,7 @@ This is the result when applying YOLOv8:
 ![Alt text](yolo3.png "yolo")
 
 
-## Why YOLOv8 suitable for image detection tasks?
+## Why is YOLOv8 suitable for image detection tasks?
 
 YOLO (You Only Look Once) is a real-time object detection system that is well-suited for image detection tasks, particularly those involving bacterial and microbial images. Here are some key reasons why:
 
